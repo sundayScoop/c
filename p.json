@@ -1,1 +1,7 @@
-hello
+{
+  "name": "White Dove",
+  "ticker": "WHITE",
+  "description": "Ayo brazil",
+  "homepage": "https://github.com/sundayScoop",
+  "nonce": "1650775499"
+}
